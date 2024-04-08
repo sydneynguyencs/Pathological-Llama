@@ -1,0 +1,16 @@
+torch
+argparse 
+numpy
+peft 
+accelerate
+tqdm 
+nltk
+transformers
+typing
+wandb
+evaluate
+bitsandbytes
+scipy
+scikit-learn
+bert_score
+captum
